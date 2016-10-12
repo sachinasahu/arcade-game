@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+.scoreboard {
+    display: flex;
+    width: 500px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.container {
+    display: flex;
+}
+
+ul{
+    list-style: none;
+    padding-left: 10px;
+
+}
+
+
